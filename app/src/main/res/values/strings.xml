@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Psicología para Todos</string>
+    <string name="app_subtitle">Biblioteca Digital de Psicoeducación</string>
+    <string name="welcome_message">Bienvenido a Psicología para Todos, un espacio de aprendizaje donde podrás comprender tus emociones, conocer más sobre la salud mental y descubrir herramientas para fortalecer tu bienestar psicológico.</string>
+    <string name="creator_name">Roberto Martínez Paternina</string>
+    <string name="creator_presentation_p1">Soy Roberto Martínez Paternina, estudiante de noveno semestre del programa de Psicología. Esta plataforma nace como una iniciativa educativa para compartir conocimientos psicológicos, promover la salud mental y acercar la psicoeducación a todas las personas.</string>
+    <string name="creator_presentation_p2">Mi propósito es contribuir a la comprensión de las emociones, el desarrollo personal y la promoción del bienestar psicológico mediante contenidos educativos, claros, accesibles y fundamentados en fuentes científicas.</string>
+    <string name="disclaimer_text">Los contenidos de Psicología para Todos tienen fines exclusivamente educativos y psicoeducativos. No sustituyen una valoración, diagnóstico, tratamiento ni atención psicológica profesional. Si estás atravesando una situación que afecta tu salud mental, busca acompañamiento de un profesional de la salud.</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_disorders">Trastornos</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_articles">Artículos</string>
+    <string name="nav_resources">Recursos</string>
+    <string name="nav_galleries">Galerías</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_about">Creador</string>
+    <string name="nav_contact">Contacto</string>
+    <string name="nav_admin">Admin</string>
+    <string name="cd_app_logo">Logotipo académico de Psicología para Todos</string>
+    <string name="cd_hero_illustration">Ilustración científica sobre procesos cognitivos y salud mental</string>
+    <string name="cd_brain_illustration">Ilustración del cerebro humano y conexiones cognitivas</string>
+    <string name="cd_balance_illustration">Ilustración de silueta humana y equilibrio emocional</string>
+    <string name="cd_accessibility_settings">Opciones de accesibilidad visual</string>
+    <string name="cd_global_search">Abrir buscador general</string>
+    <string name="cd_back">Regresar a la pantalla anterior</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Psicología para Todos",
+  "description": "Biblioteca digital de psicoeducación basada en evidencia científica (DSM-5 / DSM-5-TR, OMS, CIE-11) con guías de salud mental, videos, galerías, artículos, recursos descargables y panel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
